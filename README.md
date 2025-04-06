@@ -63,6 +63,7 @@ python main.py
 
 ## 💡 Ideas for Improvement
 
+- 🛒 Adapt the scraper to target real product pages and extract prices for our actual use case
 - 🔄 Add support to scrape multiple web pages
 - 📤 Export results to JSON
 - 🗃️ Store data in a database
