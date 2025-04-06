@@ -1,6 +1,6 @@
 # 🕷️ web-scraper-prototype
 
-A simple Python prototype that scrapes quotes and authors from [quotes.toscrape.com](http://quotes.toscrape.com) using BeautifulSoup. This project demonstrates the basics of web scraping, data extraction, and saving content to a CSV file.
+A simple Python prototype that scrapes quotes and authors from [quotes.toscrape.com](http://quotes.toscrape.com) using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#). This project demonstrates the basics of web scraping, data extraction, and saving content to a CSV file.
 
 ---
 
